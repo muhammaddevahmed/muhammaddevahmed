@@ -1,4 +1,4 @@
-[![MasterHead](https://st3.depositphotos.com/1802620/34925/v/1600/depositphotos_349257838-stock-illustration-programming-banner-coding-best-programming.jpg)]
+![MasterHead](https://st3.depositphotos.com/1802620/34925/v/1600/depositphotos_349257838-stock-illustration-programming-banner-coding-best-programming.jpg)]
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
