@@ -1,4 +1,4 @@
-![Header](Blue Corporate Linkedin Article Cover image .png)
+![Header](banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
